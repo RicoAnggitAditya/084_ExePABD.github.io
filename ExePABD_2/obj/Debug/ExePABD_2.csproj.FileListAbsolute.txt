@@ -1,0 +1,8 @@
+C:\Users\acer\source\repos\ExePABD_2\ExePABD_2\obj\Debug\ExePABD_2.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\ExePABD_2\ExePABD_2\obj\Debug\ExePABD_2.Form1.resources
+C:\Users\acer\source\repos\ExePABD_2\ExePABD_2\obj\Debug\ExePABD_2.hlmn2.resources
+C:\Users\acer\source\repos\ExePABD_2\ExePABD_2\obj\Debug\ExePABD_2.gridview.resources
+C:\Users\acer\source\repos\ExePABD_2\ExePABD_2\obj\Debug\ExePABD_2.binding.resources
+C:\Users\acer\source\repos\ExePABD_2\ExePABD_2\obj\Debug\ExePABD_2.Properties.Resources.resources
+C:\Users\acer\source\repos\ExePABD_2\ExePABD_2\obj\Debug\ExePABD_2.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\ExePABD_2\ExePABD_2\obj\Debug\ExePABD_2.csproj.CoreCompileInputs.cache
